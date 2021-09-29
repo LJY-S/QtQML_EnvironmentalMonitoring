@@ -1,0 +1,2 @@
+# QtQML_EnvironmentalMonitoring
+用QML实现的，一个环境监测的UI界面
