@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>CtDrawer.qml</file>
+        <file>CtDrawerWithBtn.qml</file>
+        <file>DrawerIcon/ServerIcon.png</file>
+        <file>DrawerIcon/ChartIcon.jpg</file>
+        <file>FnTemperatureChartView.qml</file>
+        <file>FnWSServer.qml</file>
+        <file>CtLabelTextField.qml</file>
+        <file>FnWSClient.qml</file>
+        <file>CtMovingChartView.qml</file>
+        <file>CtControlBtns.qml</file>
+        <file>CtMovingChartView2.qml</file>
+        <file>CtPopup.qml</file>
+        <file>WSClient.qml</file>
+    </qresource>
+</RCC>
